@@ -1,0 +1,46 @@
+/* Resetando estilos padrão do navegador */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333; /* Cor de fundo do cabeçalho */
+    color: #e90b0b; /* Cor do texto no cabeçalho */
+    padding: 20px; /* Espaçamento interno do cabeçalho */
+}
+
+/* Estilos para o título no cabeçalho */
+header h1 {
+    margin: 0; /* Remover margens padrão */
+}
+
+/* Estilos para o link do CSS no cabeçalho */
+header link {
+    color: #c90808; /* Cor do link */
+    text-decoration: none; /* Remover sublinhado */
+}
+
+/* Estilos para a navegação */
+nav {
+    background-color: #f4f4f4; /* Cor de fundo da navegação */
+    padding: 10px; /* Espaçamento interno da navegação */
+}
+
+/* Estilos para as divs dentro da navegação */
+nav div {
+    margin-bottom: 5px; /* Espaçamento entre as divs */
+    text-align: center;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333; /* Cor de fundo do rodapé */
+    color: #fff; /* Cor do texto no rodapé */
+    padding: 10px; /* Espaçamento interno do rodapé */
+}
+
+.oq{
+    text-align: center;
+}
